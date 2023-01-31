@@ -1,11 +1,17 @@
 
-⚠️ Olá me chamo wladimir Martinelli
 
-🏠 Atualmente  moro em Osasco/SP.
+⚠️
+## Olá eu me chamo Wladimir Martinelli
+🏠
+## Atualmente moro em Osasco/SP
 
-👨‍🎓 Sou formado pela universidade  Paulista Unip em ADS.
+👨‍🎓
+## Possuo a formação em tecnologia em Análise e desenvolvimento de Sistemas.
 
-📌 Hoje buscando minha primeira oportunidade na área de tecnologia e desenvolvimento.
+📌
+## Hoje buscando minha primeira oportunidade na área de tecnologia e desenvolvimento.
+
+
 
 # Breve relato sobre min:
 
