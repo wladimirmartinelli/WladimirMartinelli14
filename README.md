@@ -1,8 +1,7 @@
-# Olá eu sou Wladimir
-Sobre min
+⚠️ Me chamo Wladimir Martinelli
 
-👊 Sou Wladimir, tenho 35 anos moro em Osasco-SP;
+🏠 Atualmente  moro em Osasco/SP.
 
-🏫  Gradua em Análise e  Desenvolvimento de Sistema , Unip;
+👨‍🎓 Sou formado pela universidade  Paulista Unip em ADS.
 
-💼 Buscando a primeira oportunidade na área de tecnologia;
+📌 Hoje buscando minha primeira oportunidade na área de tecnologia e desenvolvimento.
