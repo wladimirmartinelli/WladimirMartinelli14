@@ -6,7 +6,7 @@
 ## Atualmente moro em Osasco/SP
 
 👨‍🎓
-## Possuo a formação em tecnologia em Análise e desenvolvimento de Sistemas.
+## Possuo a formação em Análise e Desenvol de sistemas pela instituição de ensino UNIP.
 
 📌
 ## Hoje buscando minha primeira oportunidade na área de tecnologia e desenvolvimento.
